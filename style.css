@@ -1,0 +1,23 @@
+.pesan {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 40px;
+}
+
+.kirim {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.kirim > img {
+  width: 200px;
+  height: 200px;
+}
+
+#animasi {
+  opacity: 0;
+}
