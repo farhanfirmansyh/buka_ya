@@ -6,4 +6,4 @@ p.innerText = `Halo ${nama}, Coba tebak apa hayo?`;
 
 setTimeout(() => {
   animasi.style.opacity = "1";
-}, 10000);
+}, 5000);
